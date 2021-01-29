@@ -1,1 +1,3 @@
-# workshop
+# Example Header
+
+This is a test page
